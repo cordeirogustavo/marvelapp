@@ -1,4 +1,4 @@
-A study project based in examples from my friend. [marvelapp.beeno.com.br](https://marvelapp.beeno.com.br)
+Link to view [marvelapp.beeno.com.br](https://marvelapp.beeno.com.br)
 
 ## Stack
 **Front-end:** NextJs, Jest, Styled Components
