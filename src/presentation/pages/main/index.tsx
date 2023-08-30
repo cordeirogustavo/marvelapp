@@ -28,7 +28,7 @@ export function MainPage ({ characters, comics, spiderManComics, ironManComics, 
           <Banner
             href="/comics/6830"
             src="/spiderman.jpg"
-            title="The Amazing Spider-Man"
+            title="The Amazing Spider Man"
             createdAt="1996-06-01"
           />
           <CharacterList title="BEST CHARACTERS" data={characters} />
